@@ -2,6 +2,13 @@
 comments syntax
 -->
 
+Big Letters
+===========
+
+I just love **bold text**.
+
+*meow*
+
 # my-first-repo
 
 ## My List 
